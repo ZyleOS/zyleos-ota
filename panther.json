@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1785834420,
+      "filename": "SuperiorOS-Fourteen-panther-COMMUNITY-20260804-0907.zip",
+      "id": "dabfc43df2a584f619bd3cb3f7cbda0b1caab21728d6f2796a13bfad93012121",
+      "romtype": "community",
+      "size": 1699648740,
+      "url": "https://github.com/RAFSuNX/superioros-panther-ota/releases/download/v20260804-0907/SuperiorOS-Fourteen-panther-COMMUNITY-20260804-0907.zip",
+      "version": "Fourteen"
+    }
+  ]
+}
