@@ -1,8 +1,6 @@
 ZyleOS Fourteen - panther (Pixel 7) - 2026-08-08
 
-First official ZyleOS build for panther. Not distributed as a single
-OTA package - flash manually via fastboot using the image bundle at:
-https://github.com/ZyleOS/zyleos-ota/releases/tag/v20260809-0432
+First official ZyleOS build for panther.
 
 Changes:
 - Debloat trim
@@ -12,3 +10,6 @@ Changes:
 - Wi-Fi calling in airplane mode fix
 - USB retry fix
 - Secretkeeper HAL
+
+Manual fastboot image bundle (for fresh installs/recovery) also
+available at: https://github.com/ZyleOS/zyleos-ota/releases/tag/v20260809-0432
