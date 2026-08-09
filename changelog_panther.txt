@@ -1,0 +1,14 @@
+ZyleOS Fourteen - panther (Pixel 7) - 2026-08-08
+
+First official ZyleOS build for panther. Not distributed as a single
+OTA package - flash manually via fastboot using the image bundle at:
+https://github.com/ZyleOS/zyleos-ota/releases/tag/v20260809-0432
+
+Changes:
+- Debloat trim
+- GApps enabled
+- Real Pixel Camera/Dialer/Messages/Launcher
+- Fingerprint refreshed to mustang/Pixel 10 Pro XL
+- Wi-Fi calling in airplane mode fix
+- USB retry fix
+- Secretkeeper HAL
