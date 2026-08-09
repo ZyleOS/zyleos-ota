@@ -2,11 +2,11 @@
   "response": [
     {
       "datetime": 1786186216,
-      "filename": "ZyleOS-Fourteen-panther-GAPPS-RELEASE-20260808-1649.zip",
-      "id": "26748fe8963994be119a8a94a784fb5159a6598631ab38f8cc1ca957287f4e9c",
+      "filename": "ZyleOS-Fourteen-panther-GAPPS-RELEASE-20260809-0605.zip",
+      "id": "26bc0a53bfa6683cbf7bdb7d86d82671edec2c5d16c07372719b7bc5137be6b3",
       "romtype": "release",
-      "size": 2500071948,
-      "url": "https://codeberg.org/attachments/bc70e75b-12fc-463b-aa3b-490aa7d1c13b",
+      "size": 2500075866,
+      "url": "https://codeberg.org/attachments/44b2640e-d0f7-4cb5-867a-7c2196cd34b1",
       "version": "Fourteen"
     }
   ]
